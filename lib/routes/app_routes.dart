@@ -19,7 +19,7 @@ class AppRoutes {
     cadastro: (_) => const CadastroScreen(),
     feed: (_) => const FeedScreen(),
     perfil: (_) => const PerfilScreen(),
-    editarPerfil: (_) => const EditarPefilScreen(),
+    editarPerfil: (_) => const EditarPerfilScreen(),
     postagem: (_) => const PostagemScreen(),
   };
 }
