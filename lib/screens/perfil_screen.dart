@@ -28,7 +28,7 @@ class PerfilScreen extends StatelessWidget {
 
             const SizedBox(height: 10),
 
-            const Text('Apaixonado por tecnologia 🌿'),
+            const Text('Se um dia a tecnologia se rebelar, seria primeira a morrer. 🌿'),
 
             const SizedBox(height: 20),
 
